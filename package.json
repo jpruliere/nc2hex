@@ -1,6 +1,6 @@
 {
   "name": "@jpruliere/nc2hex",
-  "version": "1.0.0",
+  "version": "0.2",
   "description": "Converts a CSS named color to its hexadecimal value.",
   "main": "module.js",
   "scripts": {
