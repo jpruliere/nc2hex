@@ -1,5 +1,5 @@
 {
-  "name": "@jpruliere/namedcolorstranslator",
+  "name": "@jpruliere/nc2hex",
   "version": "1.0.0",
   "description": "Converts a CSS named color to its hexadecimal value.",
   "main": "module.js",

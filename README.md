@@ -7,8 +7,10 @@ Returns `null` if the color is not one of those.
 ## Examples
 
 ```js
-console.log(colorify('rebeccapurple')); // #663399
-console.log(colorify('darkgreen')); // #006400
-console.log(colorify('lightyellow')); // #ffffe0
-console.log(colorify('eighth')); // null
+const nc2hex = require('nc2hex');
+
+console.log(nc2hex('rebeccapurple')); // #663399
+console.log(nc2hex('darkgreen')); // #006400
+console.log(nc2hex('lightyellow')); // #ffffe0
+console.log(nc2hex('eighth')); // null
 ```
