@@ -1,0 +1,20 @@
+{
+  "name": "@jpruliere/namedcolorstranslator",
+  "version": "1.0.0",
+  "description": "Converts a CSS named color to its hexadecimal value.",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpruliere/nc2hex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpruliere/nc2hex/issues"
+  },
+  "homepage": "https://github.com/jpruliere/nc2hex#readme"
+}
